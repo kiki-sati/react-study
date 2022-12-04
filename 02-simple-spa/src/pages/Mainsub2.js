@@ -8,4 +8,4 @@ const MainSub2 = () => {
     );
 };
 
-export default MainSub2;  
+export default MainSub2;
